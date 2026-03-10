@@ -1,0 +1,1981 @@
+n=5 graphs:
+
+========== Highest Generator Degree 3 ==========
+
+Graph 26
+  Regularity: 3
+  Highest generator degree: 3
+  Generator degrees: [3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (1, 4), (2, 3)]
+
+========== SUMMARY ==========
+
+Highest degree 3: 1 graphs
+
+
+
+
+
+n=6 graphs:
+
+========== Highest generator degree 3 ==========
+
+Graph 46
+  Regularity: 3
+  Highest generator degree: 3
+  Generator degrees: [3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (1, 4), (2, 3)]
+
+Graph 52
+  Regularity: 3
+  Highest generator degree: 3
+  Generator degrees: [3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (1, 4), (2, 3)]
+
+Graph 69
+  Regularity: 3
+  Highest generator degree: 3
+  Generator degrees: [3]
+  Edges: [(0, 1), (0, 4), (0, 5), (1, 2), (1, 3), (1, 4), (2, 3)]
+
+Graph 79
+  Regularity: 3
+  Highest generator degree: 3
+  Generator degrees: [2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (1, 4), (1, 5), (2, 3)]
+
+Graph 99
+  Regularity: 3
+  Highest generator degree: 3
+  Generator degrees: [3]
+  Edges: [(0, 4), (0, 5), (1, 3), (1, 5), (2, 3), (2, 4)]
+
+Graph 100
+  Regularity: 3
+  Highest generator degree: 3
+  Generator degrees: [3]
+  Edges: [(0, 1), (0, 4), (0, 5), (1, 3), (1, 5), (2, 3), (2, 4)]
+
+Graph 101
+  Regularity: 3
+  Highest generator degree: 3
+  Generator degrees: [2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (1, 3), (1, 5), (2, 3), (2, 4)]
+
+Graph 104
+  Regularity: 3
+  Highest generator degree: 3
+  Generator degrees: [2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (1, 3), (1, 5), (2, 3), (2, 4)]
+
+Graph 105
+  Regularity: 3
+  Highest generator degree: 3
+  Generator degrees: [2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (1, 2), (1, 3), (1, 5), (2, 3), (2, 4)]
+
+Graph 127
+  Regularity: 4
+  Highest generator degree: 3
+  Generator degrees: [2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 5), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 128
+  Regularity: 4
+  Highest generator degree: 3
+  Generator degrees: [2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 129
+  Regularity: 4
+  Highest generator degree: 3
+  Generator degrees: [2, 3]
+  Edges: [(0, 1), (0, 3), (0, 5), (1, 2), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 131
+  Regularity: 4
+  Highest generator degree: 3
+  Generator degrees: [2, 3]
+  Edges: [(0, 3), (0, 4), (0, 5), (1, 2), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 132
+  Regularity: 4
+  Highest generator degree: 3
+  Generator degrees: [2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 4), (0, 5), (1, 2), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 134
+  Regularity: 4
+  Highest generator degree: 3
+  Generator degrees: [2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (1, 2), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 142
+  Regularity: 4
+  Highest generator degree: 3
+  Generator degrees: [2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 4), (0, 5), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 4)]
+
+Graph 143
+  Regularity: 4
+  Highest generator degree: 3
+  Generator degrees: [2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 4)]
+
+========== Highest generator degree 4 ==========
+
+Graph 126
+  Regularity: 4
+  Highest generator degree: 4
+  Generator degrees: [4]
+  Edges: [(0, 1), (0, 2), (0, 5), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+========== SUMMARY ==========
+
+Highest degree 3: 17 graphs
+Highest degree 4: 1 graphs
+
+
+
+
+
+n=7 graphs:
+
+=== Highest generator degree = 3 ===
+
+Graph 72
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (1, 4), (2, 3)]
+
+Graph 78
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (1, 4), (2, 3)]
+
+Graph 84
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 4), (2, 3)]
+
+Graph 111
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [3]
+  Edges: [(0, 1), (0, 4), (0, 5), (1, 2), (1, 3), (1, 4), (2, 3)]
+
+Graph 123
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [3]
+  Edges: [(0, 1), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (2, 3)]
+
+Graph 133
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (1, 4), (1, 5), (2, 3)]
+
+Graph 139
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 6), (1, 4), (1, 5), (2, 3)]
+
+Graph 145
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 4), (1, 5), (2, 3)]
+
+Graph 171
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3, 3]
+  Edges: [(0, 1), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 3)]
+
+Graph 181
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 4), (1, 5), (1, 6), (2, 3)]
+
+Graph 216
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [3]
+  Edges: [(0, 4), (0, 5), (1, 3), (1, 5), (2, 3), (2, 4)]
+
+Graph 217
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [3]
+  Edges: [(0, 1), (0, 4), (0, 5), (1, 3), (1, 5), (2, 3), (2, 4)]
+
+Graph 218
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (1, 3), (1, 5), (2, 3), (2, 4)]
+
+Graph 221
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (1, 3), (1, 5), (2, 3), (2, 4)]
+
+Graph 233
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [3]
+  Edges: [(0, 4), (0, 5), (0, 6), (1, 3), (1, 5), (2, 3), (2, 4)]
+
+Graph 234
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [3]
+  Edges: [(0, 1), (0, 4), (0, 5), (0, 6), (1, 3), (1, 5), (2, 3), (2, 4)]
+
+Graph 235
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (0, 6), (1, 3), (1, 5), (2, 3), (2, 4)]
+
+Graph 238
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 3), (1, 5), (2, 3), (2, 4)]
+
+Graph 239
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (1, 2), (1, 3), (1, 5), (2, 3), (2, 4)]
+
+Graph 244
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [3]
+  Edges: [(0, 2), (0, 4), (0, 6), (1, 2), (1, 3), (1, 5), (2, 3), (2, 4)]
+
+Graph 250
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [3]
+  Edges: [(0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (2, 3), (2, 4)]
+
+Graph 251
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3, 3]
+  Edges: [(0, 1), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (2, 3), (2, 4)]
+
+Graph 252
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (2, 3), (2, 4)]
+
+Graph 281
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3, 3]
+  Edges: [(0, 1), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 3), (2, 4)]
+
+Graph 285
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3]
+  Edges: [(0, 1), (0, 3), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 3), (2, 4)]
+
+Graph 294
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 5), (1, 6), (2, 3), (2, 4)]
+
+Graph 302
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3, 3]
+  Edges: [(0, 4), (0, 5), (0, 6), (1, 3), (1, 5), (1, 6), (2, 3), (2, 4)]
+
+Graph 303
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3, 3]
+  Edges: [(0, 1), (0, 4), (0, 5), (0, 6), (1, 3), (1, 5), (1, 6), (2, 3), (2, 4)]
+
+Graph 304
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3, 3]
+  Edges: [(0, 2), (0, 4), (0, 5), (0, 6), (1, 3), (1, 5), (1, 6), (2, 3), (2, 4)]
+
+Graph 305
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (0, 6), (1, 3), (1, 5), (1, 6), (2, 3), (2, 4)]
+
+Graph 309
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 3), (1, 5), (1, 6), (2, 3), (2, 4)]
+
+Graph 312
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3, 3, 3]
+  Edges: [(0, 2), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (1, 6), (2, 3), (2, 4)]
+
+Graph 313
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (1, 6), (2, 3), (2, 4)]
+
+Graph 340
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3]
+  Edges: [(0, 3), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5)]
+
+Graph 341
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3]
+  Edges: [(0, 1), (0, 3), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5)]
+
+Graph 342
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5)]
+
+Graph 345
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5)]
+
+Graph 346
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5)]
+
+Graph 373
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 5), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 374
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 385
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 5), (0, 6), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 386
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 387
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3]
+  Edges: [(0, 1), (0, 3), (0, 5), (1, 2), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 389
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3]
+  Edges: [(0, 3), (0, 4), (0, 5), (1, 2), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 390
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 4), (0, 5), (1, 2), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 392
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (1, 2), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 394
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [3]
+  Edges: [(0, 1), (0, 2), (0, 6), (1, 2), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 406
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3]
+  Edges: [(0, 1), (0, 2), (0, 5), (0, 6), (1, 2), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 407
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [3]
+  Edges: [(0, 3), (0, 5), (0, 6), (1, 2), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 408
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3]
+  Edges: [(0, 1), (0, 3), (0, 5), (0, 6), (1, 2), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 411
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3]
+  Edges: [(0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 412
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 414
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 427
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3]
+  Edges: [(0, 1), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 432
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3]
+  Edges: [(0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 433
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 443
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 445
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 455
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 5), (0, 6), (1, 5), (1, 6), (2, 3), (2, 4), (3, 4)]
+
+Graph 457
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3, 3, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 5), (1, 6), (2, 3), (2, 4), (3, 4)]
+
+Graph 459
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 3), (2, 4), (3, 4)]
+
+Graph 460
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3, 3]
+  Edges: [(0, 3), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 3), (2, 4), (3, 4)]
+
+Graph 461
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 3), (2, 4), (3, 4)]
+
+Graph 464
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3]
+  Edges: [(0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 3), (2, 4), (3, 4)]
+
+Graph 465
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 3), (2, 4), (3, 4)]
+
+Graph 467
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 3), (2, 4), (3, 4)]
+
+Graph 476
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 4), (0, 5), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 4)]
+
+Graph 477
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 4)]
+
+Graph 478
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [3]
+  Edges: [(0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 4)]
+
+Graph 479
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [3]
+  Edges: [(0, 1), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 4)]
+
+Graph 480
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [3]
+  Edges: [(0, 2), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 4)]
+
+Graph 481
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 4)]
+
+Graph 482
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 4)]
+
+Graph 483
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 4)]
+
+Graph 484
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3]
+  Edges: [(0, 3), (0, 4), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 4)]
+
+Graph 485
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 4), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 4)]
+
+Graph 486
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 4), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 4)]
+
+Graph 487
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 4)]
+
+Graph 488
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 4)]
+
+Graph 489
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 4)]
+
+Graph 490
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 6), (2, 5), (3, 4)]
+
+Graph 498
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3]
+  Edges: [(0, 1), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 6), (2, 5), (3, 4)]
+
+Graph 499
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 6), (2, 5), (3, 4)]
+
+Graph 506
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [3]
+  Edges: [(0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 6), (2, 5), (3, 4)]
+
+Graph 508
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3]
+  Edges: [(0, 2), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 6), (2, 5), (3, 4)]
+
+Graph 510
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 6), (2, 5), (3, 4)]
+
+Graph 511
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 6), (2, 5), (3, 4)]
+
+Graph 519
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 5), (3, 4)]
+
+Graph 520
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3]
+  Edges: [(0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 5), (3, 4)]
+
+Graph 521
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 5), (3, 4)]
+
+Graph 524
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3]
+  Edges: [(0, 2), (0, 3), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 5), (3, 4)]
+
+Graph 526
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3]
+  Edges: [(0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 5), (3, 4)]
+
+Graph 528
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 5), (3, 4)]
+
+Graph 529
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 5), (3, 4)]
+
+Graph 530
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6), (2, 5), (3, 4)]
+
+Graph 531
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6), (2, 5), (3, 4)]
+
+Graph 533
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [3]
+  Edges: [(0, 2), (0, 3), (0, 6), (1, 4), (1, 5), (2, 3), (2, 5), (3, 4)]
+
+Graph 535
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3]
+  Edges: [(0, 1), (0, 3), (0, 4), (0, 6), (1, 4), (1, 5), (2, 3), (2, 5), (3, 4)]
+
+Graph 541
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 6), (1, 2), (1, 4), (1, 5), (2, 3), (2, 5), (3, 4)]
+
+Graph 543
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3]
+  Edges: [(0, 3), (0, 4), (0, 6), (1, 2), (1, 4), (1, 5), (2, 3), (2, 5), (3, 4)]
+
+Graph 544
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 4), (0, 6), (1, 2), (1, 4), (1, 5), (2, 3), (2, 5), (3, 4)]
+
+Graph 558
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3]
+  Edges: [(0, 2), (0, 3), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 3), (2, 5), (3, 4)]
+
+Graph 561
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3]
+  Edges: [(0, 1), (0, 4), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 3), (2, 5), (3, 4)]
+
+Graph 565
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 3), (0, 4), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 3), (2, 5), (3, 4)]
+
+Graph 574
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [3, 3, 3]
+  Edges: [(0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 575
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 576
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 579
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [3]
+  Edges: [(0, 1), (0, 5), (0, 6), (1, 4), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 580
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 5), (0, 6), (1, 4), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 583
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3]
+  Edges: [(0, 2), (0, 3), (0, 5), (0, 6), (1, 4), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 584
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 5), (0, 6), (1, 4), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 587
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 4), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 601
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 602
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 603
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 604
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3, 3]
+  Edges: [(0, 4), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 605
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3]
+  Edges: [(0, 1), (0, 4), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 606
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3]
+  Edges: [(0, 2), (0, 4), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 607
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 611
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 616
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3]
+  Edges: [(0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 617
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 618
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 2), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 619
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 625
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3]
+  Edges: [(0, 1), (0, 4), (0, 5), (0, 6), (1, 4), (1, 5), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 629
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 4), (1, 5), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 644
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 5), (0, 6), (1, 3), (1, 4), (1, 5), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 645
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 5), (0, 6), (1, 3), (1, 4), (1, 5), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 657
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 658
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 665
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3, 3]
+  Edges: [(0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 666
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 667
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3, 3, 3, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 668
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3]
+  Edges: [(0, 3), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 669
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 3), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 670
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 673
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 674
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3]
+  Edges: [(0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 675
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 676
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 677
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3]
+  Edges: [(0, 3), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 678
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 679
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 684
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3]
+  Edges: [(0, 2), (0, 5), (0, 6), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 689
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 5), (0, 6), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 691
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 4), (0, 5), (0, 6), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 693
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 694
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3, 3]
+  Edges: [(0, 2), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 695
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 696
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3, 3]
+  Edges: [(0, 3), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 697
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 698
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3]
+  Edges: [(0, 2), (0, 3), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 699
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 700
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 701
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 702
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 703
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 705
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 5), (0, 6), (1, 3), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 708
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3]
+  Edges: [(0, 4), (0, 5), (0, 6), (1, 3), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 709
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 4), (0, 5), (0, 6), (1, 3), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 710
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3]
+  Edges: [(0, 2), (0, 4), (0, 5), (0, 6), (1, 3), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 711
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (0, 6), (1, 3), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 715
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 3), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 732
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 5), (1, 6), (2, 5), (2, 6), (3, 4)]
+
+Graph 737
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 5), (2, 6), (3, 4)]
+
+Graph 738
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 5), (2, 6), (3, 4)]
+
+Graph 741
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3, 3]
+  Edges: [(0, 2), (0, 4), (0, 5), (0, 6), (1, 3), (1, 5), (1, 6), (2, 5), (2, 6), (3, 4)]
+
+Graph 744
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 3), (1, 5), (1, 6), (2, 5), (2, 6), (3, 4)]
+
+Graph 745
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 3), (1, 5), (1, 6), (2, 5), (2, 6), (3, 4)]
+
+Graph 748
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 2), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (1, 6), (2, 5), (2, 6), (3, 4)]
+
+Graph 750
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (1, 6), (2, 5), (2, 6), (3, 4)]
+
+Graph 752
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (1, 6), (2, 5), (2, 6), (3, 4)]
+
+Graph 753
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (1, 6), (2, 5), (2, 6), (3, 4)]
+
+Graph 756
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 3), (1, 4), (1, 5), (1, 6), (2, 5), (2, 6), (3, 4)]
+
+Graph 757
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 3), (1, 4), (1, 5), (1, 6), (2, 5), (2, 6), (3, 4)]
+
+Graph 758
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6), (2, 5), (2, 6), (3, 4)]
+
+Graph 759
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6), (2, 5), (2, 6), (3, 4)]
+
+Graph 768
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (1, 6), (2, 3), (2, 5), (2, 6), (3, 4)]
+
+Graph 771
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (1, 6), (2, 3), (2, 5), (2, 6), (3, 4)]
+
+Graph 799
+  Regularity: 3
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3, 3, 3]
+  Edges: [(0, 3), (0, 4), (0, 6), (1, 2), (1, 4), (1, 6), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 800
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 4), (0, 6), (1, 2), (1, 4), (1, 6), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 803
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 3, 3, 3, 3, 3]
+  Edges: [(0, 3), (0, 5), (0, 6), (1, 2), (1, 4), (1, 6), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 804
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3, 3, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 5), (0, 6), (1, 2), (1, 4), (1, 6), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 805
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 5), (0, 6), (1, 2), (1, 4), (1, 6), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 806
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 5), (0, 6), (1, 2), (1, 4), (1, 6), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 808
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 4), (1, 6), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 811
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 812
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 828
+  Regularity: 5
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3]
+  Edges: [(0, 1), (0, 4), (0, 6), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 830
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 6), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 832
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 3, 3, 3]
+  Edges: [(0, 2), (0, 5), (0, 6), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 833
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 5), (0, 6), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 834
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 5), (0, 6), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 835
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 5), (0, 6), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 838
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (0, 6), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 840
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 841
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 3), (0, 4), (0, 6), (1, 2), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 843
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 2), (0, 5), (0, 6), (1, 2), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 844
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 5), (0, 6), (1, 2), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 845
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 3), (0, 5), (0, 6), (1, 2), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 846
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 5), (0, 6), (1, 2), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 847
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 5), (0, 6), (1, 2), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 848
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 5), (0, 6), (1, 2), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 849
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3]
+  Edges: [(0, 4), (0, 5), (0, 6), (1, 2), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 850
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 4), (0, 5), (0, 6), (1, 2), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 853
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 854
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 856
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 858
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 859
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 860
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 861
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 866
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 4), (0, 5), (0, 6), (1, 4), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 870
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 4), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 879
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 5), (1, 6), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 880
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 881
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 882
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 883
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 884
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (1, 6), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 885
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (1, 6), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 886
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 2), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (1, 6), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 887
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (1, 6), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 888
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (1, 6), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 889
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (1, 6), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 890
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 4), (1, 5), (1, 6), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 892
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 4), (1, 5), (1, 6), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 894
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 4), (1, 5), (1, 6), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 895
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 4), (1, 5), (1, 6), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 896
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 897
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 898
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (1, 6), (2, 3), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 899
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (1, 6), (2, 3), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 900
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (1, 6), (2, 3), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 901
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 5), (1, 6), (2, 3), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 902
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 4), (0, 5), (0, 6), (1, 4), (1, 5), (1, 6), (2, 3), (2, 4), (2, 6), (3, 4), (3, 5)]
+
+Graph 917
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3]
+  Edges: [(0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 4), (1, 5), (1, 6), (2, 4), (2, 5), (2, 6), (3, 4), (3, 5)]
+
+Graph 932
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3]
+  Edges: [(0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 4), (1, 5), (1, 6), (2, 4), (2, 5), (2, 6), (3, 4), (3, 5), (3, 6)]
+
+Graph 948
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 6), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)]
+
+Graph 949
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)]
+
+Graph 950
+  Regularity: 5
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 6), (1, 2), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)]
+
+Graph 953
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 4), (0, 6), (1, 2), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)]
+
+Graph 954
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 6), (1, 2), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)]
+
+Graph 955
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)]
+
+Graph 956
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)]
+
+Graph 958
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)]
+
+Graph 959
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 6), (1, 2), (1, 3), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)]
+
+Graph 960
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 6), (1, 2), (1, 3), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)]
+
+Graph 962
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)]
+
+Graph 963
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)]
+
+Graph 964
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 2), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)]
+
+Graph 965
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)]
+
+Graph 967
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)]
+
+Graph 975
+  Regularity: 5
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 6), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 979
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3, 3, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 980
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 981
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 982
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 983
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 984
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 985
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 5), (0, 6), (1, 2), (1, 4), (1, 6), (2, 3), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 986
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 5), (0, 6), (1, 2), (1, 4), (1, 6), (2, 3), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 987
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 5), (0, 6), (1, 2), (1, 4), (1, 6), (2, 3), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 988
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 4), (1, 6), (2, 3), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 989
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 2), (0, 3), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 3), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 991
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 2), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 3), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 992
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 3), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 993
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 6), (2, 3), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 994
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (0, 6), (1, 4), (1, 5), (1, 6), (2, 3), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 995
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 4), (1, 5), (1, 6), (2, 3), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 996
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (0, 6), (1, 2), (1, 4), (1, 5), (1, 6), (2, 3), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 997
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 4), (1, 5), (1, 6), (2, 3), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 998
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 4), (1, 5), (1, 6), (2, 3), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 999
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 4), (1, 5), (1, 6), (2, 3), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 1000
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 4), (1, 5), (1, 6), (2, 3), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 1001
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 3), (1, 4), (1, 5), (1, 6), (2, 3), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 1002
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6), (2, 3), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 1003
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6), (2, 3), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 1023
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 3), (0, 4), (0, 5), (0, 6), (1, 3), (1, 4), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (2, 6), (3, 6), (4, 5)]
+
+Graph 1024
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 3), (1, 4), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (2, 6), (3, 6), (4, 5)]
+
+Graph 1025
+  Regularity: 4
+  Highest generator degree: 3
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (2, 6), (3, 6), (4, 5)]
+
+
+=== Highest generator degree = 4 ===
+
+Graph 372
+  Regularity: 4
+  Highest generator degree: 4
+  Degrees of minimal generators: [4]
+  Edges: [(0, 1), (0, 2), (0, 5), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 384
+  Regularity: 4
+  Highest generator degree: 4
+  Degrees of minimal generators: [4]
+  Edges: [(0, 1), (0, 2), (0, 5), (0, 6), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 404
+  Regularity: 4
+  Highest generator degree: 4
+  Degrees of minimal generators: [4]
+  Edges: [(0, 1), (0, 5), (0, 6), (1, 2), (1, 5), (2, 3), (2, 4), (3, 4)]
+
+Graph 453
+  Regularity: 4
+  Highest generator degree: 4
+  Degrees of minimal generators: [2, 4, 4]
+  Edges: [(0, 1), (0, 2), (0, 5), (0, 6), (1, 5), (1, 6), (2, 3), (2, 4), (3, 4)]
+
+Graph 497
+  Regularity: 4
+  Highest generator degree: 4
+  Degrees of minimal generators: [4]
+  Edges: [(0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 6), (2, 5), (3, 4)]
+
+Graph 517
+  Regularity: 4
+  Highest generator degree: 4
+  Degrees of minimal generators: [3, 3, 4]
+  Edges: [(0, 1), (0, 2), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 5), (3, 4)]
+
+Graph 518
+  Regularity: 4
+  Highest generator degree: 4
+  Degrees of minimal generators: [2, 4, 4]
+  Edges: [(0, 2), (0, 3), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 5), (3, 4)]
+
+Graph 600
+  Regularity: 4
+  Highest generator degree: 4
+  Degrees of minimal generators: [3, 3, 4]
+  Edges: [(0, 2), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 3), (2, 5), (3, 4)]
+
+Graph 683
+  Regularity: 5
+  Highest generator degree: 4
+  Degrees of minimal generators: [2, 4]
+  Edges: [(0, 1), (0, 5), (0, 6), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 685
+  Regularity: 4
+  Highest generator degree: 4
+  Degrees of minimal generators: [2, 2, 3, 4]
+  Edges: [(0, 1), (0, 2), (0, 5), (0, 6), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 687
+  Regularity: 4
+  Highest generator degree: 4
+  Degrees of minimal generators: [2, 2, 3, 4]
+  Edges: [(0, 1), (0, 3), (0, 5), (0, 6), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4)]
+
+Graph 736
+  Regularity: 4
+  Highest generator degree: 4
+  Degrees of minimal generators: [2, 2, 2, 4, 4, 4]
+  Edges: [(0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 5), (1, 6), (2, 5), (2, 6), (3, 4)]
+
+Graph 829
+  Regularity: 4
+  Highest generator degree: 4
+  Degrees of minimal generators: [2, 2, 2, 2, 4]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 6), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 831
+  Regularity: 4
+  Highest generator degree: 4
+  Degrees of minimal generators: [2, 3, 3, 3, 4, 4]
+  Edges: [(0, 1), (0, 5), (0, 6), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 836
+  Regularity: 4
+  Highest generator degree: 4
+  Degrees of minimal generators: [2, 2, 2, 2, 3, 3, 4]
+  Edges: [(0, 1), (0, 4), (0, 5), (0, 6), (1, 4), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)]
+
+Graph 946
+  Regularity: 5
+  Highest generator degree: 4
+  Degrees of minimal generators: [2, 2, 4, 4, 4]
+  Edges: [(0, 1), (0, 2), (0, 6), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)]
+
+Graph 947
+  Regularity: 4
+  Highest generator degree: 4
+  Degrees of minimal generators: [2, 2, 2, 2, 3, 4, 4]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 6), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)]
+
+Graph 951
+  Regularity: 4
+  Highest generator degree: 4
+  Degrees of minimal generators: [2, 2, 2, 3, 3, 4, 4]
+  Edges: [(0, 1), (0, 3), (0, 6), (1, 2), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)]
+
+Graph 952
+  Regularity: 4
+  Highest generator degree: 4
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 3, 4]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 6), (1, 2), (1, 6), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)]
+
+Graph 976
+  Regularity: 4
+  Highest generator degree: 4
+  Degrees of minimal generators: [2, 2, 3, 3, 3, 3, 3, 4]
+  Edges: [(0, 2), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 6), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 977
+  Regularity: 4
+  Highest generator degree: 4
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 4]
+  Edges: [(0, 1), (0, 2), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 6), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+Graph 978
+  Regularity: 4
+  Highest generator degree: 4
+  Degrees of minimal generators: [2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 4]
+  Edges: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (1, 2), (1, 3), (1, 6), (2, 6), (3, 4), (3, 5), (4, 5)]
+
+
+=== Highest generator degree = 5 ===
+
+Graph 516
+  Regularity: 5
+  Highest generator degree: 5
+  Degrees of minimal generators: [5]
+  Edges: [(0, 2), (0, 5), (0, 6), (1, 3), (1, 4), (1, 6), (2, 5), (3, 4)]
+
+
+=== Summary counts by highest generator degree ===
+  degree 3: 281 graphs
+  degree 4: 22 graphs
+  degree 5: 1 graphs
+
